@@ -50,9 +50,6 @@ pip install -r requirements.txt
         matplotlib
         (Add others as needed)
 
-✍️ Authors
-
-    [Mahadt44 - GitHub Profile](https://github.com/mahadt44)
 
 📜 License
 
