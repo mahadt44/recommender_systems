@@ -28,3 +28,37 @@ Ensure you have the following installed:
    
 2. Navigate to the project directory:
 cd recommender_systems
+
+3. Install dependencies:
+```bash
+pip install -r requirements.txt
+ ```
+
+🤖 Features
+
+    Implementation of recommendation algorithms.
+    Evaluation of recommendation models using metrics like (e.g., Precision, Recall, RMSE, etc.).
+    Insights and visualizations to understand model performance.
+
+🛠️ Built With
+
+    Python: Main programming language.
+    Jupyter Notebook: For interactive analysis.
+    Libraries used:
+        pandas
+        numpy
+        scikit-learn
+        matplotlib
+        (Add others as needed)
+
+✍️ Authors
+
+    Mahadt44 - GitHub Profile
+
+📜 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+📫 Acknowledgments
+
+    Resources or datasets used.
+    Tutorials or papers that inspired this work.
